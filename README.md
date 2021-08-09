@@ -1,2 +1,23 @@
 # nest-backend
 - 个人练习
+- 集成config
+- 集成log
+- 集成error handle
+- 注册登录模块
+- 数据库 && typeorm
+- JWT
+- 集成swagger
+- 角色模块
+- 部门模块
+- user & role 关系
+- user & department 关系
+- 菜单模块
+- 角色鉴权功能
+- 数字权限功能
+- 任务 定时任务 task
+- 队列 job
+- 上传下载服务
+- excel服务
+- 集成redis
+- 优化代码
+- 安全
